@@ -1,0 +1,12 @@
+{
+	"name":	"No Peace on Earth",
+	"id":	"no_peace_on_earth",
+	"version":	"0.1.0",
+	"supported_game_version":	"1.4.*",
+	"short_description":	"Trench Crusade themed: the Gate of Hell beneath Jerusalem stands open, and the faithful of Earth wage an endless war.",
+	"tags":	["Alternative history", "Events"],
+	"relationships":	[],
+	"game_custom_data":	{
+		"multiplayer_synchronized": true
+	}
+}
