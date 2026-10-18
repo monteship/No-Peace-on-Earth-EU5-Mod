@@ -40,7 +40,7 @@ Canon timeline inside and around the game window. Checked on Oct 17, 2026 agains
 | 1102 | Antioch fortified, becomes the centre of resistance |
 | 1109 | The Great Sultanate of the Invincible Iron Wall of the Two Horns That Pierce the Sky forms, uniting the Islamic factions behind the Iron Wall |
 | 1165 | The Old Man of the Mountain and his Hashashins hold Alamut; its siege lasts hundreds of years and it still stands |
-| 1215–1306 | Wars of Triclavianism split the Church; the first papal "sacred processions" of refugees date from them |
+| 1215–1306 | Wars of Triclavianism split the Church; the first papal "sacred processions" of refugees date from them. *(invented)*: the Latin states of Greece are carved out of Byzantium in these wars, not in a 1204 crusade |
 | 1346–1353 | Beelzebub unleashes the Black Grail; the Corpse Wars begin |
 | 1418 (821 AH) | Sultan Bayezid III commissions the Brazen Bull as living field artillery |
 | 1429 | Jeanne d'Arc leads the combined forces of the Church at the Battle of Valence, destroys Grail Hegemon Yersinia Rex and drives the Black Grail from mainland Europe, ending the Corpse Wars. The surviving Grail priests storm Avignon the same year |
@@ -71,7 +71,7 @@ Canon geography that constrains the map:
 - **The North has its own Hellmouth** on the Kola Peninsula (Ziminiar), opposed by the Kalmar Union, the Northern knightly orders and the Tsardom of Novgorod.
 - **By 1914** fan sources say Hell holds the Middle East, North Africa, Anatolia, the Caucasus and the Balkans, with footholds in Northern Italy, Gibraltar, Córdoba, Avignon and Finland; the official site confirms Egypt (Domains of Mammon), Avignon, Gibraltar and Rijeka (1872 landing). The mod's 1337–1837 arc should trend toward that map, not away from it.
 
-Canon gaps the mod fills *(invented)*: what Triclavianism actually teaches and who won its wars; who rules Anatolia in 1337; the six individual woes of 1666; anything about Joan's fate after 1429; when Paladin Engelier killed the other Grail Hegemon.
+Canon gaps the mod fills *(invented)*: where the Latin states of 1337 Greece came from (no Fourth Crusade or sack of Constantinople in 1204: canon's timeline has none, and after 1099 a crusade against Christian Constantinople makes no sense; the Latin side carved Achaea, Catalan Athens, Naxos, Negroponte, Venetian Crete and the Latin remnant in Thrace out of Byzantium during the Wars of Triclavianism, 1215–1306, so vanilla's 1337 map stands); what Triclavianism actually teaches and who won its wars; who rules Anatolia in 1337; the six individual woes of 1666; anything about Joan's fate after 1429; when Paladin Engelier killed the other Grail Hegemon.
 
 Canon inconsistencies to be aware of: the Ekron annal dates the Grail's release to 1436 (almost certainly a typo for 1346), and the Missionaries annal says Valence ended "sixty-six years" of war, which would start the Corpse Wars around 1363 rather than 1346. The mod follows the rulebook timeline (1346) and can treat 1346–1362 as the plague and 1363–1429 as open war.
 
