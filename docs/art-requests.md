@@ -25,6 +25,8 @@ Portrait-shaped card illustrations, like vanilla's `main_menu/gfx/interface/icon
 
 ## Country flags
 
+**Done** (Oct 18): all ten received and wired in as `te_npoe_<tag>.dds` textured emblems (`main_menu/common/coat_of_arms/coat_of_arms/npoe_flags.txt`); JAL overrides the vanilla Jalayirid flag. Loads without errors. Open: HCD's coins carry a modern "$"; THR's field is plain grey.
+
 All new tags currently get a random generated flag. EU5 builds flags from layers (pattern + emblems), so the simplest route is **one full flag image per tag**, used as a single textured emblem over a solid base.
 
 - Size **384×256** (3:2), PNG. Keep important detail away from the outer 5% (the frame crops it).
